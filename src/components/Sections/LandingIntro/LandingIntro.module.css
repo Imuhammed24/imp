@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Ramabhadra&display=swap');
+
+.LandingIntro {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.LandingIntroContainer {
+    width: 85%;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.LandingIntroLeft, .LandingIntroRight {
+    padding: 20px 0;
+    width: 49%;
+    height: 84vh;
+    float: left;
+    overflow: scroll;
+
+}
+
+.LandingIntroRight {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+}
+
+.LandingIntroRight::-webkit-scrollbar {
+    display: none;
+}
+
+.LandingIntroLeft h1 {
+    font-size: 4em;
+    font-family: 'Ramabhadra', sans-serif;
+    line-height: 1em;
+}
+
+.BlueColor {
+    color: #005CB8 !important;
+}
+
+.ShortHeadingDescription {
+    color: #526270;
+    letter-spacing: .09em;
+}
+
+.LandingIntroLeftContainer {
+    padding: 0 25px 0 0;
+}
+
+.LandingIntroLeftContainer button {
+    margin-top: 20px;
+    background-color: #005CB8;
+    font-size: 1em;
+    font-weight: bold !important;
+}
+
+.LandingIntroRight {
+    padding: 20px 10px;
+    background-color: #F3F6F9;
+}

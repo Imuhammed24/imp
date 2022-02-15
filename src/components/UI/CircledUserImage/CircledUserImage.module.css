@@ -1,0 +1,8 @@
+.CircledUserImage{
+    display: inline-flex !important;
+    margin-left: 10px;
+    width: 30px !important;
+    height: 30px !important;
+    padding: 1px;
+    /*border: 2px solid navy;*/
+}

@@ -1,0 +1,23 @@
+.TechStack{
+    width: 100%;
+}
+
+.TechStackContent{
+    width: 85%;
+    padding: 70px 0;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.TechStackContent p{
+    color: #526270;
+    letter-spacing: .09px;
+}
+
+.TechStackImages{
+    height: 50px;
+}
+
+.BlueColor{
+    color: #005CB8 !important;
+}
